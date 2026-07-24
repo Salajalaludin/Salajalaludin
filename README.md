@@ -1,72 +1,153 @@
-<h1 align="center">Hi, I'm Sala Jalaludin 👋</h1>
-<h3 align="center">Data Analyst / Aspiring Data Scientist 🇮🇩</h3>
+<h1 align="center">Sala Jalaludin</h1>
 
 <p align="center">
-  Turning messy data into clear decisions — EDA, machine learning, and business insight.
+  <strong>Data Analyst · Statistics Student · Aspiring Data Scientist</strong>
+</p>
+
+<p align="center">
+  Building analytical systems, predictive models, and data products
+  that turn complex datasets into practical decisions.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sala-jalaludin-101473202/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:salajalaludin2021a@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://linktr.ee/SALAJALALUDIN">
+    <img src="https://img.shields.io/badge/Links-Portfolio-43E55E?style=flat-square&logo=linktree&logoColor=white">
+  </a>
 </p>
 
 ---
 
-### 🎯 About Me
+## About
 
-- 🔭 Currently sharpening skills in **data analysis, machine learning, and predictive modeling**
-- 🌱 Exploring end-to-end ML pipelines — from data cleaning to explainability
-- 💬 Ask me about **pandas, EDA, customer segmentation, or churn/fraud analysis**
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/sala-jalaludin-101473202/) · [Instagram](https://www.instagram.com/itzshall_/) · [Linktree](https://linktr.ee/SALAJALALUDIN)
+I am a Statistics student and data practitioner focused on building
+end-to-end analytical solutions—from data preparation and exploratory
+analysis to predictive modeling, explainability, and interactive dashboards.
 
----
+My current interests include:
 
-### 🛠️ Tools & Skills
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Shiny](https://img.shields.io/badge/-Shiny-1a1a1a?style=flat-square&logo=r&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+- Predictive modeling and machine learning
+- Time-series forecasting and anomaly detection
+- Customer and transaction analytics
+- Reproducible data products and Python tooling
 
 ---
 
-### 📌 Project Highlights
+## Featured Projects
 
-**🌾 [SEC-DATA](https://github.com/Salajalaludin/SEC-DATA)**
-Shiny dashboard for monitoring & forecasting food commodity prices in Cilegon, Indonesia — combines scraped market prices, ERA5 climate reanalysis, and BMKG weather forecasts with a hybrid forecasting model.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**💳 [Credit Card Fraud Detection](https://github.com/Salajalaludin/creditcard-fraud-detection)**
-End-to-end ML pipeline with risk scoring, calibrated thresholds, and explainability (permutation importance).
+### 🌾 [SEC-DATA](https://github.com/Salajalaludin/SEC-DATA)
 
-**🧩 [framepeek](https://github.com/Salajalaludin/framepeek)**
-Lightweight EDA toolkit for pandas — profiling, missing values, duplicates, outliers, and data quality warnings in one function call. *(Python package I built and maintain)*
+Food commodity monitoring and forecasting system for Cilegon, Indonesia.
 
-**📉 [Customer Churn Analysis](https://github.com/Salajalaludin/customer-churn-analysis)**
-Churn & retention case study on the KKBox dataset — key driver analysis and actionable retention strategy.
+- Integrates scraped market prices, ERA5 climate data, and BMKG forecasts
+- Produces three-day commodity price forecasts
+- Uses a hybrid SARIMA–XGBoost model
+- Provides SHAP interpretation and distribution-risk early warnings
 
-**🛍️ [RFM Customer Segmentation](https://github.com/Salajalaludin/RFM-based-customer-segmentation-with-Online-Retail-II-data)**
-Segmentation using K-Means, GMM, Hierarchical Clustering, PAM, and DBSCAN with cluster validation.
+**Stack:** R, Shiny, Python, Time Series, XGBoost, SHAP
 
-**🌾 [Prediksi Yield Padi (GDHY)](https://github.com/Salajalaludin/Prediksi-Yield-Padi-Berbasis-Data-GDHY)**
-Rice yield anomaly analysis using NetCDF climate data, spatial analysis, and time-series regression.
+</td>
+<td width="50%" valign="top">
 
-**⌨️ [recall-word-helper](https://github.com/Salajalaludin/recall-word-helper)**
-Windows floating OCR assistant for Indonesian word-prefix detection with local dictionary-based suggestions. *(C# / .NET desktop app)*
+### 💳 [Fraud Detection](https://github.com/Salajalaludin/creditcard-fraud-detection)
 
-**🎨 [Brat-Generator](https://github.com/Salajalaludin/Brat-Generator)**
-A browser-based "Brat"-style cover image generator with custom text, built as a single-page HTML app and deployed on Vercel. *(fun side project)*
+End-to-end transaction risk-scoring system designed to prioritize human investigation.
+
+- **94.83% Precision**
+- **77.46% Recall**
+- **85.27% F1 Score**
+- Calibrated decision threshold and investigation queue
+- Streamlit dashboard, drift monitoring, testing, and CI
+
+**Stack:** Python, scikit-learn, Streamlit, MLflow-style workflow
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 [framepeek](https://github.com/Salajalaludin/framepeek)
+
+Lightweight exploratory data-analysis toolkit for pandas DataFrames.
+
+- Dataset overview and column profiling
+- Missing-value and duplicate analysis
+- Outlier and correlation detection
+- Target analysis and configurable data-quality warnings
+- Typed, tested, and documented package structure
+
+**Stack:** Python, pandas, pytest, mypy, Ruff
+
+</td>
+<td width="50%" valign="top">
+
+### 📉 [Customer Churn Analysis](https://github.com/Salajalaludin/customer-churn-analysis)
+
+Large-scale churn and retention analysis using the KKBox dataset.
+
+- Behavioral and transactional feature engineering
+- Customer activity and renewal analysis
+- Identification of major churn drivers
+- Business-oriented retention recommendations
+
+**Stack:** Python, pandas, SQL, Machine Learning, EDA
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📊 GitHub Stats
+## Technical Toolkit
+
+**Core analysis**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Data and machine learning**
+
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+**Applications and workflow**
+
+![Shiny](https://img.shields.io/badge/Shiny-276DC3?style=flat-square&logo=r&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+---
+
+## Other Builds
+
+- 🛍️ [RFM Customer Segmentation](https://github.com/Salajalaludin/RFM-based-customer-segmentation-with-Online-Retail-II-data)  
+  Customer segmentation using K-Means, GMM, hierarchical clustering, PAM, and DBSCAN.
+
+- 🌾 [Rice Yield Analysis](https://github.com/Salajalaludin/Prediksi-Yield-Padi-Berbasis-Data-GDHY)  
+  Spatial and time-series analysis of rice-yield anomalies using GDHY and NetCDF data.
+
+- ⌨️ [Recall Word Helper](https://github.com/Salajalaludin/recall-word-helper)  
+  Windows OCR assistant for Indonesian word-prefix detection and dictionary suggestions.
+
+- 🎨 [Brat Generator](https://github.com/Salajalaludin/Brat-Generator)  
+  Lightweight browser-based image generator built with HTML and JavaScript.
+
+---
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Salajalaludin&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salajalaludin&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salajalaludin&hide_border=true" />
+  Open to data analyst internships, research collaborations,
+  and practical data-product projects.
 </p>
