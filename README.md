@@ -1,6 +1,6 @@
 <h1 align="center">Sala Jalaludin</h1>
 
-<p align="center"> <strong>Data Entushiast · Statistics Student · Python, SQL & R</strong> </p>
+<p align="center"> <strong>Data Enthusiast · Statistics Student · Python, SQL & R</strong> </p>
 
 <p align="center"> Building end-to-end analytics, machine-learning systems, forecasting models, and interactive data products that transform complex datasets into practical decisions. </p>
 
