@@ -1,24 +1,15 @@
 <h1 align="center">Sala Jalaludin</h1>
 
-<p align="center">
-  <strong>Data Analyst · Statistics Student · Aspiring Data Scientist</strong>
-</p>
+<p align="center"> <strong>Data Entushiast · Statistics Student · Python, SQL & R</strong> </p>
+
+<p align="center"> Building end-to-end analytics, machine-learning systems, forecasting models, and interactive data products that transform complex datasets into practical decisions. </p>
+
+<p align="center"> Interested in customer analytics, fraud detection, time-series forecasting, statistical modeling, and data-quality tooling. </p>
 
 <p align="center">
-  Building analytical systems, predictive models, and data products
-  that turn complex datasets into practical decisions.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sala-jalaludin-101473202/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:salajalaludin2021a@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://linktr.ee/SALAJALALUDIN">
-    <img src="https://img.shields.io/badge/Links-Portfolio-43E55E?style=flat-square&logo=linktree&logoColor=white">
-  </a>
+  <a href="https://www.linkedin.com/in/sala-jalaludin-101473202/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:salajalaludin2021a@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linktr.ee/SALAJALUDIN"><img src="https://img.shields.io/badge/Links-Portfolio-43E55E?style=flat-square&logo=linktree&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
@@ -44,7 +35,7 @@ My current interests include:
 <tr>
 <td width="50%" valign="top">
 
-### 🌾 [SEC-DATA](https://github.com/Salajalaludin/SEC-DATA)
+### 🌾 [SiHEWA](https://github.com/Salajalaludin/SEC-DATA)
 
 Food commodity monitoring and forecasting system for Cilegon, Indonesia.
 
