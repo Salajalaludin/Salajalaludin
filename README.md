@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sala-jalaludin-101473202/"><img src="https://img.shields.io/badge/LinkedIn-Connect-1A1B27?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/Salajalaludin"><img src="https://img.shields.io/badge/LinkedIn-Connect-1A1B27?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" alt="LinkedIn"></a>
   <a href="mailto:salajalaludin2021a@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1A1B27?style=for-the-badge&logo=gmail&logoColor=F7768E" alt="Email"></a>
-  <a href="https://linktr.ee/SALAJALUDIN"><img src="https://img.shields.io/badge/Links-Portfolio-1A1B27?style=for-the-badge&logo=linktree&logoColor=9ECE6A" alt="Portfolio"></a>
+  <a href="https://linktr.ee/salajalaludin"><img src="https://img.shields.io/badge/Links-Portfolio-1A1B27?style=for-the-badge&logo=linktree&logoColor=9ECE6A" alt="Portfolio"></a>
   <a href="https://www.instagram.com/itzshall_/"><img src="https://img.shields.io/badge/Instagram-Follow-1A1B27?style=for-the-badge&logo=instagram&logoColor=BB9AF7" alt="Instagram"></a>
 </p>
 
