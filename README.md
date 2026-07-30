@@ -40,14 +40,9 @@ predictive modeling, explainability, and interactive dashboards.
 
 ## GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Salajalaludin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&count_private=true&cache_seconds=86400" alt="GitHub Stats"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=Salajalaludin&theme=tokyonight&hide_border=true&background=1A1B27" alt="GitHub Streak"/>
-</p>
+<p align="center"> <img height="165" src="https://github-stats-extended.vercel.app/api?username=Salajalaludin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&include_all_commits=true&rank_icon=github&cache_seconds=86400" alt="Sala Jalaludin's GitHub Stats" /> <img height="165" src="https://streak-stats.demolab.com?user=Salajalaludin&theme=tokyonight&hide_border=true&background=1A1B27" alt="Sala Jalaludin's GitHub Streak" /> </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salajalaludin&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&cache_seconds=86400" alt="Top Languages"/>
-</p>
+<p align="center"> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Salajalaludin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1A1B27&cache_seconds=86400" alt="Sala Jalaludin's Top Languages" /> </p>
 
 ---
 
@@ -116,47 +111,22 @@ Large-scale churn and retention analysis using the KKBox dataset.
 
 </td>
 </tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 [Circular Aspiration Architecture](https://github.com/Salajalaludin/Circular-Aspiration-Architecture)
-
-Proof-of-concept data pipeline using social media data to monitor education
-policy issues in Jakarta and Banten.
-
-- Social listening pipeline for policy-relevant signals
-- Regional focus on Jakarta and Banten education issues
-
-**Stack:** Python, Jupyter Notebook, Data Pipeline
-
-</td>
-<td width="50%" valign="top">
-
-### 🛍️ [RFM Customer Segmentation](https://github.com/Salajalaludin/RFM-based-customer-segmentation-with-Online-Retail-II-data)
-
-Customer segmentation using multiple clustering approaches with internal
-cluster validation.
-
-- K-Means, GMM, Hierarchical Clustering, PAM, and DBSCAN
-- Cluster validity metrics for model comparison
-
-**Stack:** Python, scikit-learn, Jupyter Notebook
-
-</td>
-</tr>
 </table>
 
 ---
 
 ## Technical Toolkit
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,pandas,sklearn,numpy,streamlit,git,githubactions,vscode&theme=dark" alt="Skills"/>
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,r,mysql,git,githubactions,vscode&theme=dark" alt="Core Technologies" /> </p>
 
-**Applications and workflow:** Shiny · Streamlit · Git · GitHub Actions
-
+| Area | Teknologi |
+| :--- | :--- |
+| **Languages & Query** | Python · R · SQL |
+| **Data Processing** | pandas · NumPy · NetCDF |
+| **Machine Learning** | scikit-learn · XGBoost · SHAP |
+| **Statistics & Forecasting** | Statistical Modeling · SARIMA · Time-Series Analysis · Clustering |
+| **Visualization & Data Apps** | Matplotlib · Plotly · Streamlit · Shiny |
+| **Engineering & Quality** | Git · GitHub Actions · pytest · Ruff · mypy |
 ---
 
 ## Other Builds
