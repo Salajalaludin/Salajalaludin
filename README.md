@@ -42,7 +42,7 @@ predictive modeling, explainability, and interactive dashboards.
 
 ## GitHub Stats
 
-<p align="center"> <img height="165" src="https://github-stats-extended.vercel.app/api?username=Salajalaludin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&include_all_commits=true&rank_icon=github&cache_seconds=86400" alt="Sala Jalaludin's GitHub Stats" /> <img height="165" src="https://streak-stats.demolab.com?user=Salajalaludin&theme=tokyonight&hide_border=true&background=1A1B27" alt="Sala Jalaludin's GitHub Streak" /> </p>
+<p align="center"> <img height="165" src="https://github-stats-extended.vercel.app/api?username=Salajalaludin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&include_all_commits=true&rank_icon=github&cache_seconds=86400" alt="Sala Jalaludin's GitHub Stats" /> <img height="165" src="https://streak-stats.vercel.app?user=Salajalaludin&theme=tokyonight&hide_border=true&background=1A1B27" alt="Sala Jalaludin's GitHub Streak" /> </p>
 
 <p align="center"> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Salajalaludin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1A1B27&cache_seconds=86400" alt="Sala Jalaludin's Top Languages" /> </p>
 
